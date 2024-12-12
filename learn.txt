@@ -5,3 +5,19 @@ git add <-filename-> : gets staged(state before commit)
 git add . : add all files 
 git commit -m "some message" : commit kardega
 git push origin main : ye karne se jo change humne local me kiya hoga vo repository me ho jaega
+cd __ : change directory (__ me andar ke folder ka name)
+cd .. : ek folder bahar aa jaega
+
+mkdir foldername : makes folder
+cd foldername 
+git init : makes folder .git (from local repo(repository) to global repo)
+
+git push -u origin main : ab sirf | git push | likh sakte h, origin main likhne ki zarurat ni h
+
+create repo in github -> clone -> changes -> add -> commit -> push 
+
+branches:-
+
+git checkout <-branch name -> : to navigate
+git checkout -b <- new branch name -> : to create new branch
+git branch -d <-branch name-> : to delete branch

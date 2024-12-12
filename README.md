@@ -1,2 +1,2 @@
 # Amazon-clone
-Clone website of amazon.(only frontend)
+Clone website of amazon. (Only Frontend)

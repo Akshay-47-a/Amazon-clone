@@ -1,0 +1,5 @@
+git clone ___  : write https location from github in __ to make clone of repository in your pc
+ls : lists all the files in the folder
+git status : tell you the current status of the folder whether it is up to date or not
+git add <-filename-> : gets staged(state before commit)
+git add . : add all files

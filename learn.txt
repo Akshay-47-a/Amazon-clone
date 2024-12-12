@@ -2,4 +2,6 @@ git clone ___  : write https location from github in __ to make clone of reposit
 ls : lists all the files in the folder
 git status : tell you the current status of the folder whether it is up to date or not
 git add <-filename-> : gets staged(state before commit)
-git add . : add all files
+git add . : add all files 
+git commit -m "some message" : commit kardega
+git push origin main : ye karne se jo change humne local me kiya hoga vo repository me ho jaega
